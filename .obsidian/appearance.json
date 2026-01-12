@@ -1,1 +1,6 @@
-{}
+{
+  "enabledCssSnippets": [
+    "Justify"
+  ],
+  "cssTheme": "Typewriter"
+}
